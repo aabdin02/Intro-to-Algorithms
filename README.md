@@ -1,2 +1,2 @@
-# Intro-to-Algorithms
+# Algorithms
 An ongoing implementation of basic, intermediate and advanced algorithms
